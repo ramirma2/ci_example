@@ -1,7 +1,7 @@
 import unittest
 import task
 
-classTestCase(unittest.TestCase):
+class TestCase(unittest.TestCase):
 
     def test1(self):
         expected = "Hello World"
